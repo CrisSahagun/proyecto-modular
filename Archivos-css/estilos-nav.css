@@ -1,0 +1,56 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+.nomb_empresa{
+    color: white ;
+    font-weight: bold;
+    font-size: 24px;
+    display: inline-block;
+    vertical-align: 20px;
+}
+
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navegacion{
+    display: inline-block;
+    height: 80px;
+    width: 100%;
+    background: #784212;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.logo-icono{
+   height: 70px;
+   display:inline-block;
+   padding: 0px 10px;
+}
+
+.navegacion ul{
+    float: right;
+    margin-right: 40px;
+}
+
+.navegacion li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 70px;
+}
+
+.navegacion li:hover{
+ background-color:#935116;
+ padding: 10px;
+}
+
+.navegacion a{
+    color: white ;
+    font-size: 18px;
+    text-decoration:double;
+}
